@@ -44,6 +44,9 @@ $(function () {
 
 
     // TODO 3 - Create Collectables
+    createCollectable("dimond",300,300);
+    createCollectable("grace",500,200);
+
 
 
 
