@@ -47,13 +47,17 @@ $(function () {
     createCollectable("diamond",300,300);
     createCollectable("grace",500,200);
     createCollectable("max",200,450);
-    
+
 
 
 
 
     
     // TODO 4 - Create Cannons
+    createCannon("top",250,700,300);
+    createCannon("left",350,,100,400);
+    createCannon("right",500,1300,1000);
+
 
 
     
